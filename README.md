@@ -35,6 +35,7 @@ Analyse the ADC register range by keeping the LED at full brightness for the fir
 ---
 ## OUTPUT
 
+<img width="1888" height="1033" alt="image" src="https://github.com/user-attachments/assets/706eb296-74cd-488e-b433-ec8d65fac407" />
 
 
 
